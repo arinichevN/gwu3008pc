@@ -1,6 +1,6 @@
 
-#ifndef GWU3008_H
-#define GWU3008_H
+#ifndef GWU3008PC_H
+#define GWU3008PC_H
 
 #include "lib/app.h"
 #include "lib/gpio.h"
